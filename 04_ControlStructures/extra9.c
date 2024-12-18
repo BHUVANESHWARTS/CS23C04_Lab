@@ -1,3 +1,6 @@
+//Consider the pairs of characters used in C programs: ( ), { }, [ ], and < >. Accept one of 
+these characters and print the name of the corresponding pair of characters a s 
+parenthesis, curly braces, square brackets, and angle brackets.
 #include <stdio.h>
 int main(){
 	char c;
